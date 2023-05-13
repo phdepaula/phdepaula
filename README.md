@@ -1,4 +1,4 @@
-# Welcome to my profile 😁
+## Welcome to my profile 😁
 
  <div>
    <a href="https://github.com/phdepaula">
@@ -20,11 +20,9 @@
  
  <br>
  
-  ## Do you want to know more about me?
+  ### Do you want to know more about me?
  
 <div> 
   <a href="https://www.linkedin.com/in/pedro-henrique-de-paula-alves-8995b9180" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/phdepaula/phdepaula/blob/output/github-contribution-grid-snake.svg)
-
 </div>
