@@ -1,7 +1,6 @@
 ## Welcome to my profile 💻
-<a href="https://github.com/phdepaula">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phdepaula&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdepaula&layout=compact&langs_count=6&theme=tokyonight"/>
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=phdepaula&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true)]
+![Pedro Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phdepaula&layout=compact&langs_count=6&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <p><strong>Languages</strong><p>
