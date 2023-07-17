@@ -1,10 +1,12 @@
 ## Welcome to my profile 💻
- <div>
+<div>
    <a href="https://github.com/phdepaula">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phdepaula&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdepaula&layout=compact&langs_count=6&theme=tokyonight"/>
+  </div>
 
-</div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phdepaula)](https://github.com/anuraghazra/github-readme-stats)
+  ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phdepaula&layout=compact&langs_count=8&hide_border=true)
 
 <div style="display: inline_block"><br>
   <p><strong>Languages</strong><p>
