@@ -3,12 +3,10 @@
    <a href="https://github.com/phdepaula">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phdepaula&theme=tokyonight"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdepaula&theme=tokyonight&layout=compact&langs_count=8"/>
-  </div>
+</div>
 <div style="display: inline_block"><br>
-  <p><strong>Languages</strong><p>
+  <p><strong>Main Languages</strong><p>
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,11 +14,19 @@
 
   <p><strong>Frameworks</strong><p>
     <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-    <img align="center" alt="SQLAlchemy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
-</div>
- 
+
+  <p><strong>Databases</strong><p>
+    <img align="center" alt="postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="SqLite" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png">
+  
+  <p><strong>Other technologies</strong><p>
+      <img align="center" alt="SQLAlchemy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg">
+      <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs.svg">
+      <img align="center" alt="Docker" height="30" width="40" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq">
+ </div>
  <br>
  
   ### Do you want to know more about me?
