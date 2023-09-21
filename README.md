@@ -22,14 +22,13 @@
     <img align="center" alt="mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="SqLite" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png">
   
-  <p><strong>Other technologies</strong><p>
+  <p><strong>Other Technologies</strong><p>
       <img align="center" alt="SQLAlchemy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg">
       <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs.svg">
       <img align="center" alt="Docker" height="30" width="40" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq">
  </div>
- <br>
- 
-  ### Do you want to know more about me?
+
+### Do you want to know more about me?
  
 <div> 
   <a href="https://www.linkedin.com/in/pedro-henrique-de-paula-alves-8995b9180" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
