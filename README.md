@@ -15,6 +15,7 @@
   <p><strong>Frameworks</strong><p>
     <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
     <img align="center" alt="FastAPI" height="30" width="40" src="https://www.softformance.com/wp-content/uploads/2022/07/1.3-FastAPI-Logo.jpg">
+     <img align="center" alt="Django" height="30" width="40" src="https://d1wrxu8gicsgam.cloudfront.net/wp-content/files/django-logo-big.jpg">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
 
